@@ -1,0 +1,104 @@
+{
+    "numero_workflows": 16,
+    "response": [
+        {
+            "id": 0,
+            "name": "1 VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                1,2
+            ]
+        },
+        {
+            "id": 1,
+            "name": "1 VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                3
+            ]
+        },
+        {
+            "id": 2,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                3,7
+            ]
+        },
+        {
+            "id": 3,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                4,
+                5
+            ]
+        },
+        {
+            "id": 4,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                
+            ]
+        },
+        {
+            "id": 5,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [                
+                6
+            ]
+        },{
+            "id": 6,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                
+            ]
+        },
+        {
+            "id": 7,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                8
+            ]
+        },
+        {
+            "id": 8,
+            "name": "VERIFICAR_SI_LLEGARON_LECTURAS_CCSS",
+            "posicion": {
+                "left": 0,
+                "top": 0
+            },
+            "success_nodes": [
+                6
+            ]
+        }
+    ]
+}
